@@ -34,7 +34,7 @@ Built with C#, ASP.NET Core, SQL Server, MVC, Azure Blob Storage, Docker, and Gi
 ### 📫 Reach me
 
 - GitHub: [@lungelwamazibuko](https://github.com/lungelwamazibuko)
-- *(Add your LinkedIn / email here once you're ready to share them publicly)*
+- Email: lungelwamazibuko@outlook.com
 
 ---
 
