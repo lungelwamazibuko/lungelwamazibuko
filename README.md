@@ -8,31 +8,35 @@ Currently working with **C#, .NET, Java, SQL Server, REST APIs, Docker, Azure, a
 
 ## About Me
 
-- 🎓 Software Development student at IIE Rosebank College
-- 🇿🇦 Based in South Africa
-- 💻 Interested in backend and server-side development
-- 🗄️ Passionate about databases and data modelling
-- 🚀 Seeking opportunities as a Junior Backend or Database Developer
+* 🎓 Software Development student at IIE Rosebank College
+* 🇿🇦 Based in South Africa
+* 💻 Interested in backend and server-side development
+* 🗄️ Passionate about databases and data modelling
+* 📊 Interested in data engineering and data systems
+* 🚀 Seeking opportunities in backend development, databases, and data engineering
 
 ## Skills
 
-**Languages:**  
+**Languages:**
 C#, Java, SQL, JavaScript, HTML5, CSS3
 
-**Backend:**  
+**Backend:**
 ASP.NET Core, ASP.NET MVC, REST APIs, Entity Framework, CRUD, validation, authentication, and authorisation
 
-**Databases:**  
+**Databases:**
 SQL Server, T-SQL, relational design, normalisation, relationships, constraints, indexing, and query optimisation
 
-**Tools and Cloud:**  
+**Data:**
+Data modelling, relational databases, SQL querying, data transformation, and database design
+
+**Tools and Cloud:**
 Git, GitHub, Docker, GitHub Actions, Azure, and Azure Blob Storage
 
 ## Featured Project
 
 ### RaceDay – Event Management System
 
-[![View Project](https://img.shields.io/badge/View%20Project-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/lungelwamazibuko/PROG6212)
+[![View Project](https://img.shields.io/badge/View%20Project-GitHub-181717?style=for-the-badge\&logo=github)](https://github.com/lungelwamazibuko/PROG6212)
 
 A full-stack event management platform for South Africa's running, walking, and cycling community.
 
@@ -41,3 +45,4 @@ A full-stack event management platform for South Africa's running, walking, and 
 ```text
 C# • ASP.NET Core • ASP.NET MVC • SQL Server
 Azure Blob Storage • Docker • GitHub Actions
+```
