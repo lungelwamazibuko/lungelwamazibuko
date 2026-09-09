@@ -36,7 +36,7 @@ Git, GitHub, Docker, GitHub Actions, Azure, and Azure Blob Storage
 
 ### RaceDay – Event Management System
 
-[![View Project](https://img.shields.io/badge/View%20Project-GitHub-181717?style=for-the-badge\&logo=github)](https://github.com/lungelwamazibuko/PROG6212)
+[![View Project](https://img.shields.io/badge/View%20Project-GitHub-181717?style=for-the-badge\&logo=github)](https://github.com/lungelwamazibuko/RaceDay)
 
 A full-stack event management platform for South Africa's running, walking, and cycling community.
 
